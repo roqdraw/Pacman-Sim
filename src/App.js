@@ -3,7 +3,9 @@ import './App.css';
 
 function App() {
   return (
-    <p>WACKA-WACKA</p>
+    <div className="main">
+      <p>PAC-MAN 2: Return of Blinky and Clyde.</p>
+    </div>
   );
 }
 
