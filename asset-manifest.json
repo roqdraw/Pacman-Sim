@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pacman-Sim/static/css/main.5facb584.chunk.css",
+    "main.js": "/Pacman-Sim/static/js/main.1b3c62fd.chunk.js",
+    "main.js.map": "/Pacman-Sim/static/js/main.1b3c62fd.chunk.js.map",
+    "runtime~main.js": "/Pacman-Sim/static/js/runtime~main.90d4bc2d.js",
+    "runtime~main.js.map": "/Pacman-Sim/static/js/runtime~main.90d4bc2d.js.map",
+    "static/js/2.3310f33a.chunk.js": "/Pacman-Sim/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/Pacman-Sim/static/js/2.3310f33a.chunk.js.map",
+    "index.html": "/Pacman-Sim/index.html",
+    "precache-manifest.02a22e5cdfa383b2fc24763baf56012e.js": "/Pacman-Sim/precache-manifest.02a22e5cdfa383b2fc24763baf56012e.js",
+    "service-worker.js": "/Pacman-Sim/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/Pacman-Sim/static/css/main.5facb584.chunk.css.map"
+  }
+}
