@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Pacman-Sim/precache-manifest.02a22e5cdfa383b2fc24763baf56012e.js"
+  "/Pacman-Sim/precache-manifest.a7683a2f654ddbe1bcbed2e48a4d13db.js"
 );
 
 self.addEventListener('message', (event) => {
