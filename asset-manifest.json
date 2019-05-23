@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Pacman-Sim/static/css/main.a9d1022d.chunk.css",
-    "main.js": "/Pacman-Sim/static/js/main.3bcbd775.chunk.js",
-    "main.js.map": "/Pacman-Sim/static/js/main.3bcbd775.chunk.js.map",
+    "main.css": "/Pacman-Sim/static/css/main.407fa166.chunk.css",
+    "main.js": "/Pacman-Sim/static/js/main.d57ff237.chunk.js",
+    "main.js.map": "/Pacman-Sim/static/js/main.d57ff237.chunk.js.map",
     "runtime~main.js": "/Pacman-Sim/static/js/runtime~main.90d4bc2d.js",
     "runtime~main.js.map": "/Pacman-Sim/static/js/runtime~main.90d4bc2d.js.map",
     "static/js/2.3310f33a.chunk.js": "/Pacman-Sim/static/js/2.3310f33a.chunk.js",
     "static/js/2.3310f33a.chunk.js.map": "/Pacman-Sim/static/js/2.3310f33a.chunk.js.map",
     "index.html": "/Pacman-Sim/index.html",
-    "precache-manifest.a7683a2f654ddbe1bcbed2e48a4d13db.js": "/Pacman-Sim/precache-manifest.a7683a2f654ddbe1bcbed2e48a4d13db.js",
+    "precache-manifest.6742dc41c492042e0ae0d249bc40817f.js": "/Pacman-Sim/precache-manifest.6742dc41c492042e0ae0d249bc40817f.js",
     "service-worker.js": "/Pacman-Sim/service-worker.js",
-    "static/css/main.a9d1022d.chunk.css.map": "/Pacman-Sim/static/css/main.a9d1022d.chunk.css.map"
+    "static/css/main.407fa166.chunk.css.map": "/Pacman-Sim/static/css/main.407fa166.chunk.css.map"
   }
 }
