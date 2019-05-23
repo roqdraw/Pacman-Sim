@@ -7,6 +7,7 @@ function App() {
       <p>PAC-MAN 2: Return of Blinky and Clyde.</p>
       <div className="game">GAME STARTS HERE.</div>
       {/* Grid of 5 Squares: x = (0,1,2,3,4), y = (0,1,2,3,4) */}
+      {/* Makie the style of the arcade PACMAN game. */}
       <div>COMMANDS</div>
       <button>PLACE</button>
       {/* Always first. */}
