@@ -12,11 +12,26 @@ class App extends React.Component {
     };
   }
 
+  rotateLeft = () => {
+    this.setState({
+      facing: "West"
+    })
+  } 
+
+  rotateRight = () => {
+    this.setState({
+      facing: "East"
+    })
+  } 
+
   report = () => {
-    alert(this.state.report)
+    console.log(this.state.report)
   }
 
   render() {
+    var facing = this.state.facing;
+    var report = this.state.report;
+
     return (
       <div className="main">
         <p>PAC-MAN 2: Return of Blinky and Clyde.</p>
@@ -29,12 +44,14 @@ class App extends React.Component {
         {/* Type in x co-ord, y co-ord to dictate wher it lands. */}
         <button>MOVE</button>
         {/* Moves PAC 1 square where its facing. */}
-        <button>LEFT</button>
+        <button onClick={this.rotateLeft}>LEFT</button>
         {/* PAC rotates 90 degrees to the left. */}
-        <button>RIGHT</button>
+        <button onClick={this.rotateRight}>RIGHT</button>
         {/* PAC rotates 90 degrees to the right. */}
         <button onClick={this.report}>REPORT</button>
         {/* Outputs x co-ord, y co-ord & whicg cardinal direction its facing. */}
+        <p>PACMAN is facing {facing}.</p>
+        <p>{report}</p>
       </div>
     );
   }
