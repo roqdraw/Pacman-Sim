@@ -7,8 +7,7 @@ class App extends React.Component {
     this.state = {
         facing: "North",
         xCoord: 1,
-        yCoord: 1,
-        report: "I AM HERE."
+        yCoord: 1
     };
   }
 
@@ -30,7 +29,7 @@ class App extends React.Component {
 
   render() {
     var facing = this.state.facing;
-    var report = this.state.report;
+    var report = `To the ${this.state.facing}, to the ${this.state.facing}.`
 
     return (
       <div className="main">
